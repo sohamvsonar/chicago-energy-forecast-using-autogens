@@ -1,0 +1,11 @@
+# Navigate to your project directory
+cd "E:\Masters at IIT\Masters_Sem_3\Software Project Management\Bonus_assignment2\energy_data_analysis"
+
+# Create a new virtual environment (e.g., venv)
+python -m venv new_venv
+
+# Activate the new virtual environment
+# Windows
+new_venv\Scripts\activate
+# macOS/Linux
+# source new_venv/bin/activate
