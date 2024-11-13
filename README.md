@@ -90,7 +90,3 @@ Generated visualizations can be accessed directly from the project directory:
 ## Contributions
 
 Contributions are welcome. Please submit a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the MIT License.
